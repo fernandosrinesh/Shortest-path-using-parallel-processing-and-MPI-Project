@@ -29,6 +29,8 @@ this function has 3 subs.
 - if key is less than node, implement pseudocode.
 
 the code can be found below
+
+
 int path_find(int k,int length, string path) {
 	if(k>node-1) return 0;
 	if (k == node-1) {
@@ -56,6 +58,8 @@ int path_find(int k,int length, string path) {
 	}
 }
 also this function can implement in another way pseudocode
+
+
 int max_sum=0,s=0;
 for(int i=0;i<node;i++){
 	for(int j=0;j<node;j++){
@@ -80,6 +84,10 @@ parallel processing can be implemented 2 ways:
 2) omp
 I used both methods, using <mpi.h> and <omp.h>.
 the code can be found below:
+
+
+
+
 int main(int argc, char *argv[])
 {
 
