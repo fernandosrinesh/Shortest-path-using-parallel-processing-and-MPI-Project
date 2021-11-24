@@ -90,7 +90,6 @@ the code can be found below:
 
 int main(int argc, char *argv[])
 {
-
 	int comm_sz;
 	int my_rank;
 	int comm_sz;
