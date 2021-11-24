@@ -120,6 +120,5 @@ int main(int argc, char *argv[])
 }
 
 
-
 conclusion
 I would like to say the mpi and omp are good parallel processing method and know well about graph data structure and pseudocode algorithm.
