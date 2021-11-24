@@ -57,6 +57,8 @@ int path_find(int k,int length, string path) {
 		}
 	}
 }
+
+
 also this function can implement in another way pseudocode
 
 
@@ -116,6 +118,7 @@ int main(int argc, char *argv[])
 	cout<<"shortest path : "<<short_path<<" :  weight "<<min<<endl;
     return 0;
 }
+
 
 
 conclusion
