@@ -1,4 +1,4 @@
-# Shortest-path-using-parallel-processing-and-MPI-Project
+# Shortest path using parallel processing and MPI Project
 
 
 
